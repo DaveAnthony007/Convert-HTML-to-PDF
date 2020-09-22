@@ -1,11 +1,11 @@
-$(document).ready(function() {
+$(document).ready(() => {
     var specialElemetHandler = {
-        "#editor":function(elemtn, renderer) {
+        "#editor":(element, renderer) => {
             return true
         }
     }
     
-    $("#generate").click(function() {
+    $("#generate").click(() => {
         var doc = new jsPDF()
 
         doc.fromHTML($("#target").html(), 15, 15, {
