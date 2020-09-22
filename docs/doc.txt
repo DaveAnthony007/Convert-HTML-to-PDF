@@ -1,0 +1,8 @@
+autotable: https://www.npmjs.com/package/jspdf-autotable
+autotable github: https://github.com/simonbengtsson/jsPDF-AutoTable
+deprecated autotable issue: https://github.com/simonbengtsson/jsPDF-AutoTable/issues/646
+tableHTMLExport tutorial: https://codingshiksha.com/javascript/how-to-export-html-table-to-pdf-csv-json-txt-files-using-jspdf-tablehtmlexport-library-2020/
+tableHTMLExport: https://www.codehim.com/text-input/export-html-table-to-excel-using-jquery-plugin/#:~:text=The%20TableHTMLExport%20is%20a%20lightweight,TXT%2C%20JSON%20or%20PDF%20file
+jspdf: http://raw.githack.com/MrRio/jsPDF/master/docs/module-cell.html
+jspdf-changelog: https://github.com/MrRio/jsPDF/releases
+jspdf-version-2.above issue: https://github.com/MrRio/jsPDF/issues/2839
